@@ -1,4 +1,6 @@
 # vue-chartjs-demo
+Basic demo with vue-chartjs using [statbureau](https://www.statbureau.org/) api
+
 
 ## Build Setup
 
